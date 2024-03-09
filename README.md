@@ -3,7 +3,7 @@
   - Casio fx-580VN X Ver.2.00 Crack
 
 ## Máy tính [Casio FX-580VN Plus Ver.2.00 Crack](https://1drv.ms/f/s!AmvuvqBBIcK6iCGDCv9OrSOSEMmQ?e=VIFCZb)
-  - File cài đặt: https://1drv.ms/u/s!AmvuvqBBIcK6iDI3HQM_qh9zDHjM?e=YsJzaE
+  - File cài đặt: https://1drv.ms/u/s!AmvuvqBBIcK6iDI3HQM_qh9zDHjM?e=YsJzaE . [Link dự phòng](https://link.storjshare.io/s/jvc5scfokrme7xsjtklsatib3bha/gia-lap-casio%2FFile%20C%C3%A0i.rar)
   - File crack: Copy files crack vô thư mục cài đặt
     - [CLASSWIZ_P20.dll](https://1drv.ms/u/s!AmvuvqBBIcK6iC3rp_MYLSHK3LrU?e=YsM00u)
     - [fx-580VN X Emulator.exe](https://1drv.ms/u/s!AmvuvqBBIcK6iC7WTT8jXymK3ArT?e=OhM8yp)
