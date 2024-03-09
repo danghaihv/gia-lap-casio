@@ -9,7 +9,7 @@
     - [fx-580VN X Emulator.exe](https://1drv.ms/u/s!AmvuvqBBIcK6iC7WTT8jXymK3ArT?e=OhM8yp) | [Link dự phòng] (https://link.storjshare.io/s/juosag4lcwqpbprbw2idcdbc5clq/gia-lap-casio%2Ffx-580VN%20X%20Emulator.rar)
   - Hướng dẫn: [fx-580VNX_VI.pdf](https://github.com/BsNgChiThanh/Gia-lap-Casio/files/13222622/fx-580VNX_VI.pdf)
 
-## Máy tính [Casio FX-570VN Plus Portal](https://1drv.ms/f/s!AmvuvqBBIcK6iCJRqOnb6Xyc2Ciu?e=BzEYr4)
+## Máy tính [Casio FX-570VN Plus Portal](https://1drv.ms/f/s!AmvuvqBBIcK6iCJRqOnb6Xyc2Ciu?e=BzEYr4) | [Link dự phòng](https://link.storjshare.io/s/jvd7de5lgvzhfof5jek6ntvw7llq/gia-lap-casio%2FFX570%20portal.zip)
   - Download source: https://1drv.ms/f/s!AmvuvqBBIcK6iCJRqOnb6Xyc2Ciu?e=KoqFxb
     - Chạy file: vcredist_x86.exe
     - Sau đó bấm file: Casio fx570vn plus.exe là tự chạy!
